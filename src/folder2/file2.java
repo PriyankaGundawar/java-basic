@@ -12,7 +12,7 @@ public class file2 {
 		// TODO Auto-generated method stub
 		
 		T obj = new T();
-		int r = obj.add1(5, 6);
+		int r = obj.add1(5, 9); 
 		System.out.println(r);
 		
 
